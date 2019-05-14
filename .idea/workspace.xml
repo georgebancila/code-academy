@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fbbba2c-d84e-4356-83b4-b07d0d8ec0cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/9_1 oop part one.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_2 virtual computer.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_1 oop part two.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_2 banking on ruby.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +32,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/9_2 virtual computer.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="344">
               <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_1 oop part two.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="156" column="13" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10_2 banking on ruby.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -75,6 +93,8 @@
         <option value="$PROJECT_DIR$/8_1 block procs and lambdas.rb" />
         <option value="$PROJECT_DIR$/9_1 oop part one.rb" />
         <option value="$PROJECT_DIR$/9_2 virtual computer.rb" />
+        <option value="$PROJECT_DIR$/10_1 oop part two.rb" />
+        <option value="$PROJECT_DIR$/10_2 banking on ruby.rb" />
       </list>
     </option>
   </component>
@@ -248,19 +268,19 @@
       <option name="presentableId" value="Default" />
       <updated>1557815074547</updated>
       <workItem from="1557815076916" duration="3791000" />
-      <workItem from="1557822297997" duration="10446000" />
+      <workItem from="1557822297997" duration="12440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14237000" />
+    <option name="totallyTimeSpent" value="16231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="358" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984985" visible="true" weight="0.18249734" />
-      <window_info id="Structure" order="1" sideWeight="0.5015015" side_tool="true" visible="true" weight="0.18249734" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6546547" visible="true" weight="0.18249734" />
+      <window_info id="Structure" order="1" sideWeight="0.34534535" side_tool="true" visible="true" weight="0.18249734" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49519745" weight="0.32948583" />
@@ -409,6 +429,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_1 oop part two.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="156" column="13" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_2 banking on ruby.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
         </state>
       </provider>
     </entry>
