@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fbbba2c-d84e-4356-83b4-b07d0d8ec0cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6_1 hashes and symbols.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_2 night at the movies.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_1 the zen of ruby.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_2 refactor factory.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,37 +15,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_1 methods block sorting.rb">
+        <entry file="file://$PROJECT_DIR$/7_1 the zen of ruby.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="143" selection-start-line="143" selection-end-line="143" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_2 ordering your library.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6_1 hashes and symbols.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="88" column="19" lean-forward="true" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+            <state relative-caret-position="578">
+              <caret line="139" column="3" selection-start-line="139" selection-start-column="3" selection-end-line="139" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/6_2 night at the movies.rb">
+        <entry file="file://$PROJECT_DIR$/7_2 refactor factory.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="774">
-              <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+            <state relative-caret-position="524">
+              <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -79,6 +61,8 @@
         <option value="$PROJECT_DIR$/5_2 ordering your library.rb" />
         <option value="$PROJECT_DIR$/6_1 hashes and symbols.rb" />
         <option value="$PROJECT_DIR$/6_2 night at the movies.rb" />
+        <option value="$PROJECT_DIR$/7_1 the zen of ruby.rb" />
+        <option value="$PROJECT_DIR$/7_2 refactor factory.rb" />
       </list>
     </option>
   </component>
@@ -252,12 +236,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557815074547</updated>
       <workItem from="1557815076916" duration="3791000" />
-      <workItem from="1557822297997" duration="4260000" />
+      <workItem from="1557822297997" duration="6501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8051000" />
+    <option name="totallyTimeSpent" value="10292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="358" width="1920" height="1082" extended-state="6" />
@@ -378,6 +362,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
           <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_1 the zen of ruby.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="139" column="3" selection-start-line="139" selection-start-column="3" selection-end-line="139" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_2 refactor factory.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
         </state>
       </provider>
     </entry>
