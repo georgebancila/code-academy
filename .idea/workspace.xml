@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fbbba2c-d84e-4356-83b4-b07d0d8ec0cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/first-chapter-part-two.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second-chapter-first-part.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second-chapter-second-part.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +23,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first-chapter-part-two.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/second-chapter-first-part.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="77" column="3" lean-forward="true" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/second-chapter-second-part.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -49,6 +69,8 @@
         <option value="$PROJECT_DIR$/first-chapter.rb" />
         <option value="$PROJECT_DIR$/first-chapter-part-one.rb" />
         <option value="$PROJECT_DIR$/first-chapter-part-two.rb" />
+        <option value="$PROJECT_DIR$/second-chapter-first-part.rb" />
+        <option value="$PROJECT_DIR$/second-chapter-second-part.rb" />
       </list>
     </option>
   </component>
@@ -103,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.first-chapter-part-two">
+  <component name="RunManager" selected="Ruby.second-chapter-second-part">
     <configuration name="code-1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="codeacademy" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -158,8 +180,27 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="second-chapter-second-part" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="codeacademy" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/second-chapter-second-part.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.second-chapter-second-part" />
         <item itemvalue="Ruby.first-chapter-part-two" />
         <item itemvalue="Ruby.first-chapter-part-one" />
         <item itemvalue="Ruby.code-1" />
@@ -177,12 +218,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557815074547</updated>
-      <workItem from="1557815076916" duration="2207000" />
+      <workItem from="1557815076916" duration="3208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2207000" />
+    <option name="totallyTimeSpent" value="3208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="358" width="1920" height="1082" extended-state="6" />
@@ -216,6 +257,7 @@
     <SUITE FILE_PATH="coverage/codeacademy@code_1.rcov" NAME="code-1 Coverage Results" MODIFIED="1557815152132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codeacademy" />
     <SUITE FILE_PATH="coverage/codeacademy@first_chapter_part_two.rcov" NAME="first-chapter-part-two Coverage Results" MODIFIED="1557817495121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codeacademy" />
     <SUITE FILE_PATH="coverage/codeacademy@first_chapter.rcov" NAME="first-chapter Coverage Results" MODIFIED="1557817246508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codeacademy" />
+    <SUITE FILE_PATH="coverage/codeacademy@second_chapter_second_part.rcov" NAME="second-chapter-second-part Coverage Results" MODIFIED="1557819934083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="codeacademy" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/code-1.rb">
@@ -236,6 +278,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second-chapter-first-part.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="77" column="3" lean-forward="true" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second-chapter-second-part.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
