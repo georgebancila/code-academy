@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fbbba2c-d84e-4356-83b4-b07d0d8ec0cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8_1 block procs and lambdas.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_1 oop part one.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_2 virtual computer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/8_1 block procs and lambdas.rb">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="146" column="30" lean-forward="true" selection-start-line="146" selection-start-column="30" selection-end-line="146" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9_1 oop part one.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="113" column="27" lean-forward="true" selection-start-line="113" selection-start-column="27" selection-end-line="113" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9_2 virtual computer.rb">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="344">
-              <caret line="150" column="8" lean-forward="true" selection-start-line="150" selection-start-column="8" selection-end-line="150" selection-end-column="8" />
+              <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -53,6 +73,8 @@
         <option value="$PROJECT_DIR$/7_1 the zen of ruby.rb" />
         <option value="$PROJECT_DIR$/7_2 refactor factory.rb" />
         <option value="$PROJECT_DIR$/8_1 block procs and lambdas.rb" />
+        <option value="$PROJECT_DIR$/9_1 oop part one.rb" />
+        <option value="$PROJECT_DIR$/9_2 virtual computer.rb" />
       </list>
     </option>
   </component>
@@ -226,12 +248,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557815074547</updated>
       <workItem from="1557815076916" duration="3791000" />
-      <workItem from="1557822297997" duration="8582000" />
+      <workItem from="1557822297997" duration="10446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12373000" />
+    <option name="totallyTimeSpent" value="14237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="358" width="1920" height="1082" extended-state="6" />
@@ -371,8 +393,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8_1 block procs and lambdas.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="146" column="30" lean-forward="true" selection-start-line="146" selection-start-column="30" selection-end-line="146" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_1 oop part one.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="113" column="27" lean-forward="true" selection-start-line="113" selection-start-column="27" selection-end-line="113" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_2 virtual computer.rb">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
-          <caret line="150" column="8" lean-forward="true" selection-start-line="150" selection-start-column="8" selection-end-line="150" selection-end-column="8" />
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
         </state>
       </provider>
     </entry>
